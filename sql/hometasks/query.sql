@@ -1,3 +1,8 @@
+-- 1. Wyświetl daty wypożyczeń, a także imiona i nazwiska klientów, którzy w danym dniu dokonywali wypożyczenia.
+-- 2. Wyświetl marki i modele aut wraz z cenami za dobę wypożyczenia.
+-- 3. Wyświetl imiona i nazwiska pracowników wypożyczani, którzy obsługiwali wypożyczenia w lipcu 2022 roku.
+-- 4. Wyświetl marki i modele aut, które w okresie od kwietnia do września wypożyczał klient o nazwisku Karwowski.
+-- 5. Wyświetl wartość wypożyczeń, które obsługiwał pracownik o nazwisku Nowacki.
 -----------------Zadanie-1-----------------
 
 SELECT 
